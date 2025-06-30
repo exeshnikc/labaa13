@@ -9,6 +9,9 @@ import static org.junit.jupiter.api.Assertions.*;
  * Набор модульных тестов для проверки функциональности класса MatrixHandler.
  * Покрывает базовые и граничные случаи для методов подсчета и обмена строк.
  */
+
+
+
 public class MatrixHandlerTest {
 
     private int[][] data;
